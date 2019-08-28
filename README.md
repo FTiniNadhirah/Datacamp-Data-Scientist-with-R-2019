@@ -20,7 +20,7 @@ Datacamp website: https://www.datacamp.com/home
   - [Introduction to Tidyverse]
   - [Introductory Data Analysis]
   - [Joining Data in R with data.table]
-  - [Joining Data in SQL]()
+  - [Joining Data in SQL]
   - [Modeling with Data in the Tidyverse]
   - [Visualization Best Practices in R]
 
